@@ -1,8 +1,5 @@
-# Florian Lechner
-
-**`Software Engineer | MSc Computer Science Graduate`**
-
----
+**`Software Engineer | Entrepreneur | MSc Computer Science Graduate`**
+# Florian Lechner 
 
 ### 🔧 Languages and Tools
 
@@ -26,6 +23,4 @@
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original-wordmark.svg" />
 
 <br />
-
-#
 
